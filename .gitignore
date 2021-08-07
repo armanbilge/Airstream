@@ -1,7 +1,11 @@
 target
 .idea
+*.code-workspace
 .bsp
 .vscode
+.bloop
+.metals
+metals.sbt
 
 .DS_Store
 
